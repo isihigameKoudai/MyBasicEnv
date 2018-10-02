@@ -30,3 +30,8 @@ My environment of PC and dev
   - react-native/react-redux
   - vetur
   - vue2 snippets
+  - vscode-icons
+  - path autocomplete
+  - Bracket Pair Colorizer
+  - tslint, tslint vue
+  -
