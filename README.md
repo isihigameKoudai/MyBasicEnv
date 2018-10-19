@@ -25,6 +25,7 @@ My environment of PC and dev
   - prettier
   - debugger for chrome
   - editorconfig
+  - gitlens
   - es6
   - jsx
   - react-native/react-redux
