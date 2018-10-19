@@ -34,4 +34,6 @@ My environment of PC and dev
   - path autocomplete
   - Bracket Pair Colorizer
   - tslint, tslint vue
-  -
+  - HTML Snippets
+  - HTML CSS Class Completion
+  - 	HTMLHint
