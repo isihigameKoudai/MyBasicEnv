@@ -25,7 +25,7 @@ My environment of PC and dev
   - prettier
   - debugger for chrome
   - editorconfig
-  -es6
+  - es6
   - jsx
   - react-native/react-redux
   - vetur
@@ -36,4 +36,4 @@ My environment of PC and dev
   - tslint, tslint vue
   - HTML Snippets
   - HTML CSS Class Completion
-  - 	HTMLHint
+  - HTMLHint
